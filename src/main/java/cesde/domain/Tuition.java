@@ -1,4 +1,4 @@
-package cesde;
+package cesde.domain;
 
 import java.util.Scanner;
 
